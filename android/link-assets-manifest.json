@@ -1,0 +1,121 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/Logo.png",
+      "sha1": "e5b3848f65d24e67a7629672c32313bb0b1e8026"
+    },
+    {
+      "path": "src/assets/Slider.png",
+      "sha1": "0e5a9e341fae128dd834221b0545f32351f7a4e3"
+    },
+    {
+      "path": "src/assets/Slider1.png",
+      "sha1": "0e5a9e341fae128dd834221b0545f32351f7a4e3"
+    },
+    {
+      "path": "src/assets/Slider2.png",
+      "sha1": "0e5a9e341fae128dd834221b0545f32351f7a4e3"
+    },
+    {
+      "path": "src/assets/Store.png",
+      "sha1": "556672d34124410cadecee7f1815f507e4fe31f7"
+    },
+    {
+      "path": "src/assets/barcode.png",
+      "sha1": "79664c1a5aede1dcc68a056f006e29fcb9a0a268"
+    },
+    {
+      "path": "src/assets/cancel.png",
+      "sha1": "7ee65a06100ea2f8108a95398be76ae9334d5114"
+    },
+    {
+      "path": "src/assets/chat.png",
+      "sha1": "dca563bdde3961bb20c6932e755f6922981116df"
+    },
+    {
+      "path": "src/assets/delivery.png",
+      "sha1": "8983754a6bb468b650960fc9e80299e3de738b81"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Black.ttf",
+      "sha1": "283fa65b96dc1f2d71c6504afb9610447bdcdf1b"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Bold.ttf",
+      "sha1": "48747b7a60086f97af0d373febcbd1f1bee87f17"
+    },
+    {
+      "path": "src/assets/fonts/Inter-ExtraBold.ttf",
+      "sha1": "bff772be6bca9895c6fdcd57e5d5be9a47f2e058"
+    },
+    {
+      "path": "src/assets/fonts/Inter-ExtraLight.ttf",
+      "sha1": "421072aef8610cb0f79661b494442a4b9363b43f"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Light.ttf",
+      "sha1": "dd9ec1ae67dd85143bacf7a3cb37e9f0ac979843"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Medium.ttf",
+      "sha1": "a418a8ba73bbcfa8c131c426ab836d78457afa9b"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Regular.ttf",
+      "sha1": "7237d9cf55f177702066a28a4dde1e4c7e8ab576"
+    },
+    {
+      "path": "src/assets/fonts/Inter-SemiBold.ttf",
+      "sha1": "431007da316de60d85174aeec9b8389b5c73e7d6"
+    },
+    {
+      "path": "src/assets/fonts/Inter-Thin.ttf",
+      "sha1": "297919d59c9ba4fa17251cdb9f06c26ca906e593"
+    },
+    {
+      "path": "src/assets/noOrder.png",
+      "sha1": "e3d9492c49afa8bf620f41aff8b4ff5b9bdebe29"
+    },
+    {
+      "path": "src/assets/pointCard.png",
+      "sha1": "34886b14685ca2a0560d2f02c8804dd6375cde34"
+    },
+    {
+      "path": "src/assets/productImg.png",
+      "sha1": "ab9ccd5efa432d44eb45f404c86a352a2f08874f"
+    },
+    {
+      "path": "src/assets/refresh.png",
+      "sha1": "2007dff0b537e38cb6d4f2934a42d384782d554e"
+    },
+    {
+      "path": "src/assets/reservation.png",
+      "sha1": "9b5abe52e76a463d0625364113597abdbd7051da"
+    },
+    {
+      "path": "src/assets/rightArrow.png",
+      "sha1": "9fbc246bc80dc0cfa66f69456f98c72b76051014"
+    },
+    {
+      "path": "src/assets/searchIcon.png",
+      "sha1": "f9e98ef64e90b8da34570f4230c2c7654e5d3429"
+    },
+    {
+      "path": "src/assets/shop.png",
+      "sha1": "a1764a33645c98a5250f31a8e1b095dfa4abb799"
+    },
+    {
+      "path": "src/assets/userBackground.png",
+      "sha1": "07514a216c5df74c9c1ad2c7155ad38d88866047"
+    },
+    {
+      "path": "src/assets/userCardBg.png",
+      "sha1": "abac891a1a27eb3802a923794c1eac873bb27535"
+    },
+    {
+      "path": "src/assets/userImg.png",
+      "sha1": "8b24e5468cc3fc347b0b7a1393833d12b7528e98"
+    }
+  ]
+}
